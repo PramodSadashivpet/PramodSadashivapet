@@ -1,9 +1,9 @@
 # About Oracle Application Express
 This section offers an introduction to using Oracle Application Express applications from an end user’s perspective. This section describes Oracle Application Express and explains the differences between Websheet applications and database applications.
-- [Browser Requirements]
-- [About Oracle Application Express]
-- [About Websheet Applications]
-- [About Database Applications]  
+- (Browser Requirements)
+- (About Oracle Application Express)
+- (About Websheet Applications)
+- (About Database Applications)
 [Google](https://www.google.com/webhp?rct=j)
 ## Browser Requirements
 Because Oracle Application Express relies upon standards-compliant HTML5, CSS3, and JavaScript, Oracle recommends that you use the latest web browser software available for the best experience. To learn more, see **Browser Requirements** in *Oracle Application Express Installation Guide*.
