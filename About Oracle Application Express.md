@@ -1,7 +1,7 @@
 # About Oracle Application Express
 This section offers an introduction to using Oracle Application Express applications from an end user’s perspective. This section describes Oracle Application Express and explains the differences between Websheet applications and database applications.
 - [Go To Browser Requirements](##browser-requirements)
-- (About Oracle Application Express)
+- [About Oracle Application Express](##about-oracle-application-express)
 - (About Websheet Applications)
 - (About Database Applications)
 [Google](https://www.google.com/webhp?rct=j)
