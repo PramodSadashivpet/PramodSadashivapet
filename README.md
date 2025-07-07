@@ -26,7 +26,7 @@ database application is an interactive user interface (UI) that enables users to
 add, update, or display information stored in the Oracle Database. This UI can display
 information in many formats, including static and interactive reports, forms, maps,
 charts, and maps.  
-![Sample Picture](Sample picture.png)
+![Sample Picture](https://in.images.search.yahoo.com/search/images;_ylt=Awrx_y5Vvmto_AEAm7u7HAx.;_ylu=Y29sbwNzZzMEcG9zAzIEdnRpZAMEc2VjA3Ny?type=E210IN826G0&p=public+prictures+path&fr=mcafee&imgurl=https%3A%2F%2Fwww.bing.com%2Fimages%2Fsearch%3Fview%3DdetailV2%26ccid%3DhP2%2B4HI5%26id%3D9C76D56019D33AF55632EB4A859B1B4752A438E9%26thid%3DOIP.hP2-4HI50M2wNJKm-Qx0XAHaE7%26mediaurl%3Dhttps%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2021%2F11%2F15%2F04%2F15%2Fchina-6796350_1280.jpg%26q%3Dpublic%2520prictures%2520path%26ck%3D14F02DB889FF5654F39A5DB2E41CE2D0%26idpp%3Drc%26idpview%3Dsingleimage%26form%3Drc2idp&name=public+prictures+path1&turl=https%3A%2F%2Fsp.yimg.com%2Fib%2Fth%2Fid%2FOIP.hP2-4HI50M2wNJKm-Qx0XAHaE7%3Fpid%3DApi%26w%3D148%26h%3D148%26c%3D7%26rs%3D1&tt=public+prictures+path1&sigit=eafq_sYtksl9&sigi=TFTzqi.QwkN4&sign=Hd0AFBflzl7h&sigt=Hd0AFBflzl7h#id=0&iurl=https%3A%2F%2Fwww.publicdomainpictures.net%2Fpictures%2F250000%2Fvelka%2Fforest-path-1516043407ma8.jpg&action=click)
 
 This guide explains how end users can customize an interactive report. With an
 interactive report, end users can customize the appearance of report data through
