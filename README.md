@@ -1,33 +1,6 @@
-# Getting Started with My Project
-
-This guide helps you get started.
-
-## Prerequisites
-- Git
-- Node.js
-
-## Installation
-```bash
-git clone https://github.com/username/repo-name.git
-cd repo-name
-npm install
-Usage
-Run the app:
-
-bash
-Copy
-Edit
-npm start
-yaml
-Copy
-Edit
-
-#### **5. Commit the File**
-- Scroll down to the **"Commit new file"** section
-- Add a commit message (e.g., `Add Getting Started guide`)
-- Click **"Commit new file"**
-
----
-
-### ðŸ“„ Where Is the File Stored?
-- It will now appear in your repository, and GitHub will automatically render the Markdown.
+# About Oracle Application Express
+This section offers an introduction to using Oracle Application Express applications from an end user’s perspective. This section describes Oracle Application Express and explains the differences between Websheet applications and database applications.
+- Browser Requirements
+- About Oracle Application Express
+- About Websheet Applications
+- About Database Applications
