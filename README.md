@@ -25,7 +25,8 @@ Application Express enables developers to create powerful database applications.
 database application is an interactive user interface (UI) that enables users to quickly
 add, update, or display information stored in the Oracle Database. This UI can display
 information in many formats, including static and interactive reports, forms, maps,
-charts, and maps.
+charts, and maps.  
+![Sample Picture](PramodSadashivapet/Sample picture.png)
 
 This guide explains how end users can customize an interactive report. With an
 interactive report, end users can customize the appearance of report data through
