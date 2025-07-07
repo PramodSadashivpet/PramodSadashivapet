@@ -3,5 +3,5 @@ This section offers an introduction to using Oracle Application Express applicat
 - Browser Requirements
 - About Oracle Application Express
 - About Websheet Applications
-- About Database Applications
+- About Database Applications  
 ![Sample Image](Sample picture.png)
