@@ -33,3 +33,11 @@ searching, filtering, sorting, column selection, highlighting, and other data
 manipulations. Plus, end users can save their customizations and download the report
 locally.
 
+**Table 1: List of Fruits and Colors**
+
+| Fruit  | Color   |
+|--------|---------|
+| Apple  | Red     |
+| Banana | Yellow  |
+| Grape  | Purple  |
+
